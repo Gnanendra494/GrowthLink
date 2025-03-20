@@ -37,7 +37,7 @@ This Repositorie aims to predict the survival of passengers aboard the Titanic u
 
 ---
 # Introduction 
-Hey there! Welcome to my Titanic Survival Prediction project. I'm **Ruby Poddar**, and I invite you to explore this classic dataset with me. The sinking of the Titanic in 1912 remains one of the deadliest maritime disasters in history. This project dives deep into the Titanic dataset, aiming to unravel patterns and insights that determined passenger survival. By leveraging machine learning techniques, we'll predict survival outcomes based on passenger attributes such as age, gender, ticket class, and more.
+Hey there! Welcome to my Titanic Survival Prediction project. I'm **K.Gnanendra Reddy**, and I invite you to explore this classic dataset with me. The sinking of the Titanic in 1912 remains one of the deadliest maritime disasters in history. This project dives deep into the Titanic dataset, aiming to unravel patterns and insights that determined passenger survival. By leveraging machine learning techniques, we'll predict survival outcomes based on passenger attributes such as age, gender, ticket class, and more.
 
 
 ---
@@ -191,12 +191,6 @@ memory usage: 36.1+ KB
   - ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
   - ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?logo=seaborn&logoColor=white)
 
-### Repository Badges
-
-- ![GitHub repo size](https://img.shields.io/github/repo-size/rubypoddar/Titanic-Survival-Prediction?style=flat-square&logo=github)
-- ![GitHub issues](https://img.shields.io/github/issues/rubypoddar/Titanic-Survival-Prediction?style=flat-square&logo=github)
-- ![GitHub pull requests](https://img.shields.io/github/issues-pr/rubypoddar/Titanic-Survival-Prediction?style=flat-square&logo=github)
-- ![GitHub last commit](https://img.shields.io/github/last-commit/rubypoddar/Titanic-Survival-Prediction?style=flat-square&logo=github)
 
 ---
 ### Titanic project Structure
@@ -324,7 +318,7 @@ In summary, this project not only provided valuable insights into the factors in
 **[References and Acknowledgments]**
 
 **Datasets and Libraries:**
-- Titanic dataset: Available at [Titanic-Data-Science-Project](https://github.com/rubypoddar/Titanic-Survival-Prediction/tree/main/Titanic%20CSV).
+- Titanic dataset: Available at [Titanic-Data-Science-Project](https://github.com/Gnanendra494/GrowthLink/tree/main/Titanic-Survival-Prediction-main/Titanic%20CSV).
 - Libraries used: Python (NumPy, pandas, Matplotlib, scikit-learn, Seaborn).
 
 **Contributions:**
@@ -342,7 +336,7 @@ In summary, this project not only provided valuable insights into the factors in
 ---
 
 **[Author]**
-- **Hello!** I am Ruby Poddar, a data science enthusiast, and I created this project to explore the Titanic dataset using various data science techniques and machine learning models.
+- **Hello!** I am K.Gnanendra Reddy, a data science enthusiast, and I created this project to explore the Titanic dataset using various data science techniques and machine learning models.
 
 ---
 
@@ -420,7 +414,7 @@ Sure, here's a concise installation guide for Jupyter Notebook and the required 
    - Use the following command to clone the repository:
 
      ```bash
-     git clone https://github.com/rubypoddar/Titanic-Survival-Prediction.git
+     git clone https://github.com/Gnanendra494/Titanic-Survival-Prediction.git
      ```
 
    - This command clones the entire repository to your local machine.
@@ -491,7 +485,7 @@ Sure, here's a concise installation guide for Jupyter Notebook and the required 
 ---
 ## Contact
 
-**If you have any questions, doubts, or feedback regarding the project, installation, or repository usage, please feel free to contact me via email at** **rubypoddarr@gmail.com.**
+**If you have any questions, doubts, or feedback regarding the project, installation, or repository usage, please feel free to contact me via email at** **gnanendragnana143@gmail.com.**
 
 #### Your input is highly valued and will contribute to the improvement of this project. Thank you for your interest and collaboration!
 
