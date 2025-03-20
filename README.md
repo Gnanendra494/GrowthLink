@@ -1,3 +1,5 @@
+ > ### main owner contributor - K.Gnanendra Reddy
+
 # 🌟 GrowthLink Data Science Internship🌟
 
 Welcome to my GitHub repository for the **GrowthLink Data Science Internship**! I’m thrilled to share my journey as a BCA (Data Science) student at Amity University, showcasing the projects I completed during this enriching experience. This repository highlights my hands-on work, skills development, and the growth I achieved as an aspiring data scientist.
